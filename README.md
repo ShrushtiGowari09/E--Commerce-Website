@@ -34,7 +34,6 @@ To run this project locally:
 - **Add Products to Cart**: Click the "Add to Cart" button on product pages.
 - **View Cart**: Access the cart from the navigation bar to view, adjust quantities, or remove items.
 - **Apply Coupons**: Enter a coupon code in the "Apply Coupon" section and click "Apply" for discounts.
-- **Proceed to Checkout**: Click the "Proceed to Checkout" button to complete your purchase.
 
 ## Contributing
 Contributions are welcome! To contribute:
